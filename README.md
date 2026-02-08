@@ -1,11 +1,5 @@
 <h3 align="center">Hi, I'm Nastya 💙</h3>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/Z5xk7fGO5FjjTElnpT/giphy.gif" alt="Confused Dog Gif" width="200" />
-</p>
-
----
-
 ## 🙋‍♀️ About Me
 
 - 🧚‍♀️ QA-инженер с опытом ручного тестирования более 4 лет  
